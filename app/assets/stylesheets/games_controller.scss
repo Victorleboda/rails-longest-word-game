@@ -1,0 +1,48 @@
+// Place all the styles related to the GamesController controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+h1 {
+  padding-bottom: 30px;
+  font-family: Helvetica;
+  font-size: 48px;
+  opacity: 0.83;
+}
+li {
+  display: inline;
+  padding: 30px;
+  width: 100px;
+  height: 30px;
+  margin: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Helvetica;
+  background-color: #0094E2;
+  color: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+h3 {
+  padding-top: 10px;
+  font-size: 21px;
+  font-family: helvetica;
+  font-weight: lighter;
+}
+.randomletters {
+  padding-top: 40px;
+  text-align: center;
+  color: white;
+  padding-bottom: 20px;
+}
+.btn {
+  font-weight: strong;
+  color: black;
+  width: 100px;
+  font-size: 28px;
+}
+.champ {
+  border-radius: 4px;
+  width: 700px;
+  height: 30px;
+  font-size: 16px;
+  padding-left: 16px;
+}
